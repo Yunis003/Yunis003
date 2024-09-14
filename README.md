@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunis</h1>
 <h3 align="center">A passionate Developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif")>
+<img align="right" alt="Coding" width="500" src="https://i.gifer.com/embedded/download/XFCl.gif")>
 
 - 🌱 I’m currently learning **React.js && C**
 
