@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/3ea7b38cf62f4868e908beeffcbc30bd/5638a4e267fb4aa4-59/s540x810/940d91d4bc7451f646ac318f9e6ee8b96e3050b0.gif")>
 
 - 🌱 I’m currently learning *Python*
-
-- 📫 How to reach me *yunisgulam@gmail.com*
+- 📝 I regularly write articles on my -> [Medium](https://medium.com/@hi.yunisqulamov)
+- 📫 How to reach me -> *yunisgulam@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
