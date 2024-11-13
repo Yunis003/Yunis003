@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning *Python*
 - 📝 I regularly write articles on my -> [Medium](https://medium.com/@hi.yunisqulamov)
 - 📫 How to reach me -> *yunisgulam@gmail.com*
-- If you enjoy my work, consider [buying me a coffee](https://buymeacoffee.com/yunis003)! ☕
+- ☕If you enjoy my work, consider [buying me a coffee](https://buymeacoffee.com/yunis003)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
