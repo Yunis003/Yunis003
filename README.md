@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yunis</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<img align="right" alt="Coding" width="500" src="https://64.media.tumblr.com/3ea7b38cf62f4868e908beeffcbc30bd/5638a4e267fb4aa4-59/s540x810/940d91d4bc7451f646ac318f9e6ee8b96e3050b0.gif")>
+<img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/222/222700.gif")>
 
-- 🌱 I’m currently learning *Python*
+- 🌱 I’m currently learning *OOP Principles*
 - 📝 I regularly write articles on my -> [Medium](https://medium.com/@hi.yunisqulamov)
 - 📫 How to reach me -> *yunisgulam@gmail.com*
 - ☕If you enjoy my work, consider [buying me a coffee](https://buymeacoffee.com/yunis003)
