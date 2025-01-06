@@ -3,9 +3,7 @@
 <img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/222/222700.gif")>
 
 - 🌱 I’m currently learning *OOP Principles*
-- 📝 I regularly write articles on my -> [Medium](https://medium.com/@hi.yunisqulamov)
 - 📫 How to reach me -> *yunisgulam@gmail.com*
-- ☕If you enjoy my work, consider [buying me a coffee](https://buymeacoffee.com/yunis003)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
