@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunis</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/222/222700.gif")>
 
 - 🌱 I’m currently learning *Next.js*
