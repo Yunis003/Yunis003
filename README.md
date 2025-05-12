@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunis</h1>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png" />
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/222/222700.gif")>
 
