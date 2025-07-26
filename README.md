@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://giffiles.alphacoders.com/222/222700.gif")>
 
-- 🌱 I’m currently learning *Next.js*
+- 🌱 I’m currently learning *Next*
 - 📫 How to reach me -> *yunisgulam@gmail.com*
 - <a href="https://yunis003.github.io/Portfolio/">My Portflio</a>
 
@@ -14,6 +14,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
